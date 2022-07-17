@@ -1,2 +1,2 @@
 # ansible-config-mgt
-Learning ansible from the guru.
+Masters of Devops Engineering.
