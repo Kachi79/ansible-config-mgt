@@ -1,2 +1,2 @@
 # ansible-config-mgt
-new file created.
+Learning ansible from the guru.
